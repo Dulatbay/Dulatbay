@@ -5,16 +5,10 @@
 </p> -->
 <h3 align="center">A young full stack developer from Kazakhstan.</h3>
 
-<h2>Trophies</h2>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?theme=onedark&username=Dulatbay&row=2&column=4" alt="dulatbay" /> </p>
+<h2>Github</h2>
+<p align="center"> <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 
-<h2>Statistics</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay&theme=radical" alt="Dulatbay" /></p>
-
-<h2>Top languages</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dulatbay&show_icons=true&locale=en&theme=radical" alt="dulatbay" /></p>
-
-<h2>Top languages</h2>
+<h2>Leetcode statistics:</h2>
 <p align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=iiostream&theme=dark" alt="dulatbay" /></p>
 
 
