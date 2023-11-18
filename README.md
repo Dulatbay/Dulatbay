@@ -12,7 +12,8 @@
 
 
 <h2>Github</h2>
-<p align="center"> <img src="https://myreadme.vercel.app/api/embed/Dulatbay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
+<p align="center"> <img src="https://myreadme.vercel.app/api/embed/Dulatbay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="dulatbay" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" /></p>
 
 <h2>Leetcode statistics:</h2>
 <p align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=iiostream&theme=dark" alt="dulatbay" /></p>
@@ -28,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
