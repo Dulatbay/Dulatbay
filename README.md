@@ -1,9 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dulatbay&plastic" alt="dulatbay" /> </p>
 <h1 align="center">Hi 👋, I'm Akhan</h1>
+<h3 align="center">A young full stack developer from Kazakhstan.</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dulatbay/dulatbay/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dulatbay/dulatbay/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dulatbay/dulatbay/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 <!-- <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=7000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=700&lines=FULLstack" alt="Typing SVG" /></a> 
 </p> -->
-<h3 align="center">A young full stack developer from Kazakhstan.</h3>
 - 🌱 I’m currently learning **AWS, RabbitMQ, Spring Cloud, Redis**
 
 - 💬 Ask me about **Spring Framework, Express.js, ASP.NET, React**
@@ -11,7 +18,7 @@
 - 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1O9gpitL_fMCcOAlLZ0CWJ1UAJtrcTBW_/view?usp=sharing)
 
 
-<h2>Github</h2>
+<h2>Statistics:</h2>
 <p align="center"> <img src="https://myreadme.vercel.app/api/embed/Dulatbay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="dulatbay" /></p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" /></p>
 
@@ -55,9 +62,3 @@
   <img alt="vite" src="https://img.shields.io/badge/-vite-B246FF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dulatbay/dulatbay/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dulatbay/dulatbay/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dulatbay/dulatbay/output/github-contribution-grid-snake.svg">
-</picture>
