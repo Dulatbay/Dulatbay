@@ -4,6 +4,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=7000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=700&lines=FULLstack" alt="Typing SVG" /></a> 
 </p> -->
 <h3 align="center">A young full stack developer from Kazakhstan.</h3>
+- 🌱 I’m currently learning **AWS, RabbitMQ, Spring Cloud**
+
+- 💬 Ask me about **Spring Framework, Express.js, ASP.NET, React**
+
+- 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1O9gpitL_fMCcOAlLZ0CWJ1UAJtrcTBW_/view?usp=sharing)
+
 
 <h2>Github</h2>
 <p align="center"> <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
@@ -13,11 +19,6 @@
 
 
 
-- 🌱 I’m currently learning **AWS, RabbitMQ, Spring Cloud**
-
-- 💬 Ask me about **Spring Framework, Express.js, ASP.NET, React**
-
-- 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1O9gpitL_fMCcOAlLZ0CWJ1UAJtrcTBW_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,6 +64,3 @@
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt=".net" width="40" height="40"/> 
   </a> 
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dulatbay&show_icons=true&locale=en" alt="dulatbay" /></p>
