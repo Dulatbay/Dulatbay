@@ -12,7 +12,7 @@
 
 
 <h2>Github</h2>
-<p align="center"> <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
+<p align="center"> <img src="https://myreadme.vercel.app/api/embed/Dulatbay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 
 <h2>Leetcode statistics:</h2>
 <p align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=iiostream&theme=dark" alt="dulatbay" /></p>
