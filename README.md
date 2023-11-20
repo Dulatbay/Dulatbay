@@ -20,7 +20,7 @@
 
 <h2>Statistics:</h2>
 <p align="center"> <img src="https://myreadme.vercel.app/api/embed/Dulatbay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="dulatbay" /></p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay&theme=radical" alt="dulatbay" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" /></p>
 
 <h2>Leetcode statistics:</h2>
 <p align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=iiostream&theme=dark" alt="dulatbay" /></p>
