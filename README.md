@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dulatbay&plastic" alt="dulatbay" /> </p>
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋, I'm Akhan</h1>
 <h3 align="center">A young full stack developer from Kazakhstan.</h3>
 <p align="center">
   <picture>
