@@ -15,7 +15,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=7000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=700&lines=FULLstack" alt="Typing SVG" /></a> 
 </p> -->
 
-
 - 🌱 I’m currently learning **AWS, RabbitMQ, Spring Cloud, Redis**
 - 💬 Ask me about **Spring Framework, Express.js, ASP.NET, React**
 - 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1O9gpitL_fMCcOAlLZ0CWJ1UAJtrcTBW_/view?usp=sharing)
