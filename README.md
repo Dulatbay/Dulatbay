@@ -43,8 +43,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/akhan-dulatbay-522b91268/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="dulatbay" height="30" width="40" /></a>
-  <a href="https://web.telegram.org/k/#@qqanly" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="dulatbay" height="30" width="40" /></a>
+<!--   <a href="https://www.linkedin.com/in/akhan-dulatbay-522b91268/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="dulatbay" height="30" width="40" /></a> -->
+<!--   <a href="https://web.telegram.org/k/#@qqanly" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="dulatbay" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
