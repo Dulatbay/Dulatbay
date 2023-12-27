@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Akhan</h1>
+<h1 align="center">Hi 👋, I'm Marbik</h1>
 <h3 align="center">A young full stack developer from Kazakhstan.</h3>
 <p align="center">
   <picture>
