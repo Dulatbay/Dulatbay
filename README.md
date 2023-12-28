@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Marbik</h1>
+<h1 align="center">Hi 👋, I'm Akhan</h1>
 <h3 align="center">A young full stack developer from Kazakhstan.</h3>
 <p align="center">
   <picture>
@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **AWS, RabbitMQ, Spring Cloud, Redis**
 - 💬 Ask me about **Spring Framework, Express.js, WPF, React**
-<!-- - 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1O9gpitL_fMCcOAlLZ0CWJ1UAJtrcTBW_/view?usp=sharing) -->
+- 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1O9gpitL_fMCcOAlLZ0CWJ1UAJtrcTBW_/view?usp=sharing)
 
 
 
@@ -43,8 +43,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--   <a href="https://www.linkedin.com/in/akhan-dulatbay-522b91268/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="dulatbay" height="30" width="40" /></a> -->
-<!--   <a href="https://web.telegram.org/k/#@qqanly" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="dulatbay" height="30" width="40" /></a> -->
+  <a href="https://www.linkedin.com/in/akhan-dulatbay-522b91268/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="dulatbay" height="30" width="40" /></a>
+  <a href="https://web.telegram.org/k/#@qqanly" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="dulatbay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
