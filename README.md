@@ -1,11 +1,6 @@
 <a href="#">
 <p align="left" style="-webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;"> <img src="https://komarev.com/ghpvc/?username=Dulatbay&plastic" alt="dulatbay" /> </p>
 </a>
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Akhan</h1>
 <h3 align="center">A young full stack developer from Kazakhstan.</h3>
 <p align="center">
