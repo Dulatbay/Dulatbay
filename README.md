@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **AWS, RabbitMQ, Spring Cloud, Redis**
 - 💬 Ask me about **Spring Framework, Express.js, .NET, Django, React**
-- 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1O9gpitL_fMCcOAlLZ0CWJ1UAJtrcTBW_/view?usp=sharing)
+- 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1yy6BBb2dZfpBUXQDmU-_EK8mrxt35mZP/view?usp=sharing)
 
 
 
