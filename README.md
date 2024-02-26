@@ -10,6 +10,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dulatbay/dulatbay/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 <!-- <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=7000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=700&lines=FULLstack" alt="Typing SVG" /></a> 
 </p> -->
