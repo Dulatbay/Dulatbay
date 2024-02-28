@@ -22,7 +22,7 @@
 <h2>Statistics:</h2>
 <a href="#">
   <p align="left"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=dulatbay" alt="dulatbay" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dulatbay&column=-1" alt="dulatbay" />
   </p>
 </a>
 <a href="#">
