@@ -26,13 +26,13 @@
 
 <h2>Statistics:</h2>
 <a href="#">
-  <p align="center"> <img src="https://myreadme.vercel.app/api/embed/Dulatbay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="dulatbay" /></p>
+  <p align="left"> <img src="https://myreadme.vercel.app/api/embed/Dulatbay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="dulatbay" /></p>
 </a>
 <a href="#">
-  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" /></p>
+  <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" /></p>
 </a>
 <a href="#">
-  <p aligh="center">
+  <p aligh="left">
     <img src="https://github-profile-trophy.vercel.app/?username=dulatbay" alt="dulatbay">
   </p>
 </a>
