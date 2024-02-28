@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Akhan</h1>
 <h3 align="center">FULL STACK Software Developer</h3>
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student" alt="Typing SVG">
   </a>
 </p>
