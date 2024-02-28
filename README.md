@@ -12,10 +12,6 @@
   </picture>
 </p>
 
-<!-- <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=7000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=700&lines=FULLstack" alt="Typing SVG" /></a> 
-</p> -->
-
 - 🌱 I’m currently learning **AWS, RabbitMQ, Spring Cloud, Redis**
 - 💬 Ask me about **Spring Framework, Express.js, .NET, Django, React**
 - 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1yy6BBb2dZfpBUXQDmU-_EK8mrxt35mZP/view?usp=sharing)
@@ -27,20 +23,16 @@
 <a href="#">
   <p align="left"> <img src="https://myreadme.vercel.app/api/embed/Dulatbay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="dulatbay" /></p>
 </a>
-<div style="display: flex; align-items: center;">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" />
-  </a>
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=dulatbay" alt="dulatbay">
-  </a>
-</div>
-<!-- <a href="#">
+<a href="#">
   <p align="left"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" />
+  </p>
+</a>
+<a href="#">
+  <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=dulatbay" alt="dulatbay">
   </p>
-</a> -->
+</a>
 
 
 
