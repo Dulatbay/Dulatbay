@@ -32,7 +32,9 @@
   <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" /></p>
 </a>
 <a href="#">
-  <img src="https://github-profile-trophy.vercel.app/?username=dulatbay" alt="trophy">
+  <p aligh="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=dulatbay" alt="dulatbay">
+  </p>
 </a>
 
 
