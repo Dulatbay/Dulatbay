@@ -28,12 +28,20 @@
 <a href="#">
   <p align="left"> <img src="https://myreadme.vercel.app/api/embed/Dulatbay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="dulatbay" /></p>
 </a>
-<a href="#">
+<div style="display: flex; align-items: center;">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" />
+  </a>
+  <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=dulatbay" alt="dulatbay">
+  </a>
+</div>
+<!-- <a href="#">
   <p align="left"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" />
     <img src="https://github-profile-trophy.vercel.app/?username=dulatbay" alt="dulatbay">
   </p>
-</a>
+</a> -->
 
 
 
