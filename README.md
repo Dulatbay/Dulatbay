@@ -2,8 +2,13 @@
 <p align="left" style="-webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;"> <img src="https://komarev.com/ghpvc/?username=Dulatbay&plastic" alt="dulatbay" /> </p>
 </a>
 <h1 align="center">Hi 👋, I'm Akhan</h1>
-<img scr="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student" />
 <h3 align="center">FULL STACK Software Developer</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student" alt="Typing SVG">
+  </a>
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dulatbay/dulatbay/output/github-contribution-grid-snake-dark.svg">
