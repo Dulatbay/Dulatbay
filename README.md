@@ -2,6 +2,7 @@
 <p align="left" style="-webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;"> <img src="https://komarev.com/ghpvc/?username=Dulatbay&plastic" alt="dulatbay" /> </p>
 </a>
 <h1 align="center">Hi 👋, I'm Akhan</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <h3 align="center">FULL STACK Software Developer</h3>
 <p align="center">
   <picture>
