@@ -31,6 +31,10 @@
 <a href="#">
   <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" /></p>
 </a>
+<a href="#">
+  <img src="https://github-profile-trophy.vercel.app/?username=dulatbay" alt="trophy">
+</a>
+
 
 <h2>Leetcode statistics:</h2>
 <a href="#">
