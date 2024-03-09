@@ -18,8 +18,6 @@
 
 
 
-
-
 <h2>Statistics:</h2>
 <a href="#">
   <p align="left"> 
