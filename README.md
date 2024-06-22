@@ -39,7 +39,7 @@
 
 <h2>Leetcode statistics:</h2>
 <a href="#">
-  <p align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=iiostream&theme=dark" alt="dulatbay" /></p>
+  <p align="center"><img src="https://leetcard.jacoblin.cool/iiostream?font=patrick_hand" alt="dulatbay" /></p>
 </a>
 
 
