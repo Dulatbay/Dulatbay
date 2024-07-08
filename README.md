@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Akhan</h1>
 <h3 align="center">FULL STACK Software Developer</h3>
 
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dulatbay/dulatbay/output/github-contribution-grid-snake-dark.svg">
@@ -13,11 +12,9 @@
   </picture>
 </p>
 
-
 - 🌱 I’m currently learning **AWS, RabbitMQ, Spring Cloud, Redis**
 - 💬 Ask me about **Spring Framework, Express.js, .NET, Microservices, React**
 - 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1myYCo0yUfDx-0I9ICMmEvAy0RTKIN_in/view?usp=sharing)
-
 
 <h2>Statistics:</h2>
 <a href="#">
