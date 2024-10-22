@@ -21,9 +21,6 @@
   </p>
 </a>
 <a href="#">
-  <p align="left"> <img src="https://myreadme.vercel.app/api/embed/Dulatbay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="dulatbay" /></p>
-</a>
-<a href="#">
   <p align="left"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" />
   </p>
