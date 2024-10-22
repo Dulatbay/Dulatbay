@@ -6,7 +6,7 @@
 
 <p align="center">
   <picture>
-      <img alt="github contribution" src="https://github.com/Dulatbay/assets/metrics.plugin.isocalendar.fullyear.svg">
+      <img alt="github contribution" src="https://github.com/Dulatbay/Dulatbay/blob/main/dist/metrics.plugin.isocalendar.svg">
   </picture>
 </p>
 
