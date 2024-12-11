@@ -22,11 +22,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=dulatbay&column=-1" alt="dulatbay" />
   </p>
 </a>
-<a href="#">
-  <p align="left"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulatbay" alt="dulatbay" />
-  </p>
-</a>
 
 
 
