@@ -20,7 +20,7 @@
 <h2>Statistics:</h2>
 <a href="#">
   <p align="left"> 
-    <img src="https://nirzak-streak-stats.vercel.app/?user=dulatbay" alt="dulatbay" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=dulatbay&card_width=1030" alt="dulatbay" />
   </p>
 </a>
 
