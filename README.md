@@ -16,7 +16,16 @@
 - 💬 Ask me about **Spring Framework, Express.js, .NET, Microservices, React**
 - 📄 Know about my experiences in [RESUME](https://drive.google.com/file/d/1myYCo0yUfDx-0I9ICMmEvAy0RTKIN_in/view?usp=sharing)
 
+
 <h2>Statistics:</h2>
+<a href="#">
+  <p align="left"> 
+    <img src="https://nirzak-streak-stats.vercel.app/?user=dulatbay" alt="dulatbay" />
+  </p>
+</a>
+
+
+<h2>Trophies:</h2>
 <a href="#">
   <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=dulatbay&column=-1" alt="dulatbay" />
